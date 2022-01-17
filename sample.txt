@@ -1,2 +1,3 @@
 hello
 sample text file added
+file 2 added
